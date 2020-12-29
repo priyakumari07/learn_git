@@ -1,0 +1,6 @@
+ sometext
+:wq
+wq
+:wq
+
+
